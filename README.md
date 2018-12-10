@@ -1,4 +1,6 @@
 # hello-world
+sumanth
 jidx
-ndf\
-m,rijdx
+ndf
+mrijd
+hi
